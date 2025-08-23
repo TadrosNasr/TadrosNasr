@@ -10,7 +10,7 @@
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), CSS, JavaScript, Angular, Bootstrap  
+- **Frontend:** HTML5, CSS, JavaScript, Angular, Bootstrap  
 - **Backend:** Node.js, Express.js, NestJS  
 - **Databases:** MongoDB  
 - **Other Skills:** Git, Version Control, REST APIs, OOP  
