@@ -1,4 +1,5 @@
-# Hi there, I'm Tadros Nasr 👋
+# Hi there, I'm Tadros Nasr <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2ecd9670-3e50-4b57-8822-a060f9389d4b" />
+
 
 ## 💻 About Me
 - 🎓 Fresh graduate from **Faculty of Computers and Artificial Intelligence**  
@@ -47,9 +48,8 @@ A web app to help users identify gym machines using AI and generate personalized
 
 ### **🛒 Tech Gadgets E-Commerce**
 A responsive Angular-based e-commerce website for tech gadgets with product filtering and a cart system.  
-[**💻 GitHub Repository**](https://github.com/RadwaMansour1/angular-project)  
+[**💻 GitHub Repository**](https://github.com/RadwaMansour1/angular-project) 
 
-**Tech Stack:** 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
@@ -60,7 +60,6 @@ A responsive Angular-based e-commerce website for tech gadgets with product filt
 A movie browsing app that fetches data from a public API, built with React and Material UI for a sleek design.  
 [**💻 GitHub Repository**](https://github.com/TadrosNasr/Movies-React-App)  
 
-**Tech Stack:** 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![MaterialUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -70,7 +69,6 @@ A movie browsing app that fetches data from a public API, built with React and M
 ### **🤖 ChatGPT Clone**
 A modern ChatGPT-like web application with vision capabilities (image & file input) using OpenAI’s API. 
 
-**Tech Stack:** 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -81,7 +79,6 @@ A modern ChatGPT-like web application with vision capabilities (image & file inp
 A modern portfolio website designed for a client using HTML, Bootstrap, and JavaScript.  
 [**🔗 Live Demo**](https://www.menaxmaged.me/)
 
-**Tech Stack:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
