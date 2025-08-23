@@ -10,7 +10,7 @@
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Angular, Bootstrap  
+- **Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), CSS, JavaScript, Angular, Bootstrap  
 - **Backend:** Node.js, Express.js, NestJS  
 - **Databases:** MongoDB  
 - **Other Skills:** Git, Version Control, REST APIs, OOP  
@@ -19,14 +19,13 @@
 
 ## 📈 GitHub Stats
 ![TadrosNasr's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadrosNasr&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadrosNasr&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 - **LinkedIn:** [linkedin.com/in/tadros-nasr](https://linkedin.com/in/tadros-nasr)  
-- **Email:** tadrosnasr@example.com  
+- **Email:** tadros.work@gmail.com  
 
 ---
 
