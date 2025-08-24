@@ -1,5 +1,4 @@
-# Hi there, I'm Tadros Nasr <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2ecd9670-3e50-4b57-8822-a060f9389d4b" />
-
+# Hi there, I'm Tadros Nasr👋
 
 ## 💻 About Me
 - 🎓 Fresh graduate from **Faculty of Computers and Artificial Intelligence**  
