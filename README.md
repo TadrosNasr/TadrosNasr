@@ -58,7 +58,7 @@ A responsive Angular-based e-commerce website for tech gadgets with product filt
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ---
-🏗️ **NEOM Constructions Website**
+### **🏗️ NEOM Constructions Website**
 A modern, fast, and fully responsive construction company website built using Svelte and TailwindCSS, developed in collaboration with a teammate.
 💻 GitHub Repository
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
@@ -66,7 +66,7 @@ A modern, fast, and fully responsive construction company website built using Sv
 
 ---
 
-🏋️‍♂️ **Quantum Club Website**
+### **🏋️‍♂️ Quantum Club Website**
 A premium fitness club website built with Next.js, focusing on animations, clean UI/UX, and fully responsive layouts. Developed with a teammate.
 💻 GitHub Repository
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
